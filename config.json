@@ -1,0 +1,105 @@
+{
+  "command": "console",
+  "games": [
+    {
+      "id": "1",
+      "title": "Supersonic Saiyans",
+      "description": "Fighting game featuring many characters of the Supersonic Saiyans saga and special moves for each of them.",
+      "thumbnailUrl": "https://r2.fivemanage.com/kVIDhrkdlniwh3TQVasjF/-g1CysmlR3G3PCaybbanrw.jpg",
+      "gameUrl": "https://www.retrogames.cc/embed/28096-dragon-ball-z-supersonic-warriors-k-projectg.html",
+      "year": 2004,
+      "genre": "Fighting",
+      "platform": "web"
+    },
+    {
+      "id": "2",
+      "title": "Smash Legends",
+      "description": "Smash Legends is a fast-paced multiplayer brawler where fighters battle to be the champion!",
+      "thumbnailUrl": "https://r2.fivemanage.com/kVIDhrkdlniwh3TQVasjF/-V3zDad3S3Gsf5Q2wRqGCw.jpg",
+      "gameUrl": "https://www.retrogames.cc/embed/32117-super-smash-bros-usa.html",
+      "year": 1999,
+      "genre": "Fighting",
+      "platform": "web"
+    },
+    {
+      "id": "3",
+      "title": "Court Kings",
+      "description": "Arcade-style basketball game with fast-paced action and special moves.",
+      "thumbnailUrl": "https://r2.fivemanage.com/kVIDhrkdlniwh3TQVasjF/yjJJfXizRp2LD-W9fSs9VA.jpg",
+      "gameUrl": "https://www.retrogames.cc/embed/40186-nba-hoopz.html",
+      "year": 2001,
+      "genre": "Sports",
+      "platform": "web"
+    },
+    {
+      "id": "4",
+      "title": "Championship Boxing",
+      "description": "Boxing game featuring legendary boxers",
+      "thumbnailUrl": "https://r2.fivemanage.com/kVIDhrkdlniwh3TQVasjF/wUEc3VpISgGu19oQQffSEg.jpg",
+      "gameUrl": "https://www.retrogames.cc/embed/41961-knockout-kings.html",
+      "year": 1998,
+      "genre": "Sports",
+      "platform": "web"
+    },
+    {
+      "id": "5",
+      "title": "4th & Goal",
+      "description": "College football simulation with authentic teams and stadiums.",
+      "thumbnailUrl": "https://r2.fivemanage.com/kVIDhrkdlniwh3TQVasjF/gaKN46BeSvqnkMbbpJOfRA.jpg",
+      "gameUrl": "https://www.retrogames.cc/embed/44184-ncaa-football-2000-usa.html",
+      "year": 1999,
+      "genre": "Sports",
+      "platform": "web"
+    },
+    {
+      "id": "6",
+      "title": "Homerun Pro",
+      "description": "Classic baseball game with 3D graphics and arcade-style gameplay.",
+      "thumbnailUrl": "https://r2.fivemanage.com/kVIDhrkdlniwh3TQVasjF/3xpZ9lmoSDaZswkhCYUBPw.jpg",
+      "gameUrl": "https://www.retrogames.cc/embed/40208-3d-baseball.html",
+      "year": 1996,
+      "genre": "Sports",
+      "platform": "web"
+    },
+    {
+      "id": "7",
+      "title": "Thrash N' Dash",
+      "description": "Classic skateboarding game with professional skaters, amazing tricks, and iconic levels.",
+      "thumbnailUrl": "https://r2.fivemanage.com/kVIDhrkdlniwh3TQVasjF/ZlEvyKwsS0-lCoFLnVdaBg.png",
+      "gameUrl": "https://www.retrogames.cc/embed/42359-tony-hawks-pro-skater-4.html",
+      "year": 2002,
+      "genre": "Sports",
+      "platform": "web"
+    },
+    {
+      "id": "8",
+      "title": "Chaser",
+      "description": "The classic arcade game - eat all the dots while avoiding ghosts!",
+      "thumbnailUrl": "https://r2.fivemanage.com/kVIDhrkdlniwh3TQVasjF/Zn6Fi4TCSQGgk2fLxGtC7A.png",
+      "gameUrl": "https://freepacman.org/",
+      "year": 2024,
+      "genre": "Arcade",
+      "platform": "web"
+    },
+    {
+      "id": "9",
+      "title": "Skatobi City",
+      "description": "Unique Japanese racing game featuring cartoon-style graphics and fun gameplay.",
+      "thumbnailUrl": "https://r2.fivemanage.com/kVIDhrkdlniwh3TQVasjF/DJz5SMLpRFGuTRx1S_heKg.jpg",
+      "gameUrl": "https://www.retrogames.cc/embed/41945-kattobi-tune.html",
+      "year": 1998,
+      "genre": "Racing",
+      "platform": "web"
+    },
+    {
+      "id": "10",
+      "title": "Sky Hopper",
+      "description": "Flap Dash is a simple and addictive game where you tap to keep your bird flying and avoid obstacles!",
+      "thumbnailUrl": "https://r2.fivemanage.com/kVIDhrkdlniwh3TQVasjF/t1ptRlsvSZiz7f5TaNEl_A.jpg",
+      "gameUrl": "https://playcanv.as/p/2OlkUaxF/",
+      "year": 2024,
+      "genre": "Arcade",
+      "platform": "web"
+    }
+  ]
+}
